@@ -1,0 +1,6 @@
+{
+  "name": "Imperial Purge Command - HCET Syndicate Neutralization Portal",
+  "description": "Galactic Empire ISB & Inquisitorius Tactical Command Portal for tracking, intercepting, and neutralizing the HCET Syndicate Jedi coalition and disrupting Force recruitment across the galaxy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
